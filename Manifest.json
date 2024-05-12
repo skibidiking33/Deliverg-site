@@ -1,6 +1,6 @@
 {
-  "name": "Pea Price Calculator",
-  "short_name": "Pea Calculator",
+  "name": "Price Calculator",
+  "short_name": "Price Calc",
   "description": "An app to calculate the total price of peas by adding 5 to the entered price.",
   "start_url": "/",
   "display": "standalone",
